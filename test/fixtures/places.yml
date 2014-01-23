@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: 
+  address: MyString
+  longitute: 1.5
+  latitute: 1.5
+
+two:
+  title: 
+  address: MyString
+  longitute: 1.5
+  latitute: 1.5

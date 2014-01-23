@@ -1,0 +1,24 @@
+<h3> add new place </h3>
+
+
+
+<%= simple_form_for @place do |form| %>
+
+
+	<%= form.input :title %>
+
+
+	<%= form.input :address %>
+
+
+	<%= form.input :latitude %>
+
+
+	<%= form.input :longitude %>
+
+
+	<%= form.button :submit %>
+
+
+
+	<% end %>
